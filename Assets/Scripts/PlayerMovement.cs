@@ -41,6 +41,8 @@ public class PlayerMovement : MonoBehaviour
         rb.freezeRotation = true;
 
         readyToJump = true;
+
+        transform.position = new Vector3(transform.position.x, transform.position.y-2, transform.position.z);
     }
 
     private void Update()
