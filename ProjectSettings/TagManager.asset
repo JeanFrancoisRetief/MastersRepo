@@ -5,6 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - Image
+  - DoorOriginCentre
+  - DoorDigitalArts
+  - DoorFineArts
+  - DoorAnthropology
+  - DoorAdler
+  - DoorLifeSciences
+  - DoorExit
   layers:
   - Default
   - TransparentFX
