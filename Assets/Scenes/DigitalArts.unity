@@ -7552,6 +7552,26 @@ PrefabInstance:
       propertyPath: m_text
       value: S.A.M.
       objectReference: {fileID: 0}
+    - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 256
+      objectReference: {fileID: 0}
+    - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 256
+      objectReference: {fileID: 0}
+    - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 7.3286
+      objectReference: {fileID: 0}
+    - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 7.3286
+      objectReference: {fileID: 0}
+    - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 7.3286
+      objectReference: {fileID: 0}
     - target: {fileID: 4451855169411553552, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_Texture
       value: 
