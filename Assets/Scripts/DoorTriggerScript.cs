@@ -24,7 +24,7 @@ public class DoorTriggerScript : MonoBehaviour
         }
         else if (other.tag == "DoorDigitalArts")
         {
-            SceneManager.LoadScene("");
+            SceneManager.LoadScene("DigitalArts");
         }
         else if (other.tag == "DoorFineArts")
         {
