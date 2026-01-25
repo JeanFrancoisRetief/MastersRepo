@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Museum.unity
     guid: 3cae6f357ef9c574cb3e9d85ee7152d1
+  - enabled: 1
+    path: Assets/Scenes/DigitalArts.unity
+    guid: 6018760baf54a134a9ace78a64d4ded9
   m_configObjects: {}
