@@ -46,6 +46,10 @@ public class DoorTriggerScript : MonoBehaviour
         {
             SceneManager.LoadScene("MainHall");
         }
+        else if (other.tag == "DoorGallery")
+        {
+            SceneManager.LoadScene("PhotoModeGallery");
+        }
 
     }
 }

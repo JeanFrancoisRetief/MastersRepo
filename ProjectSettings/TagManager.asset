@@ -12,6 +12,7 @@ TagManager:
   - DoorAdler
   - DoorLifeSciences
   - DoorExit
+  - DoorGallery
   layers:
   - Default
   - TransparentFX

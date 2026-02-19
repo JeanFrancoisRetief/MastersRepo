@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DigitalArts.unity
     guid: 6018760baf54a134a9ace78a64d4ded9
+  - enabled: 1
+    path: Assets/Scenes/PhotoModeGallery.unity
+    guid: 9fa4aa2d80d73a54c976f5ff2a01b46d
   m_configObjects: {}
