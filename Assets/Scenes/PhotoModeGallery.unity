@@ -344,6 +344,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TVscreen
       objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: Synthwave Stranding
+      objectReference: {fileID: 0}
     - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_SizeDelta.x
       value: 2048
@@ -403,6 +407,11 @@ PrefabInstance:
     - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: "Landscape photograph of digital \ntrees, as seen in the 2025 video
+        game, \nDeath Stranding 2: On the Beach.\n\nCaptured By Jean-Francois Retief"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1859,6 +1868,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TVscreen
       objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: New Family, Old Life
+      objectReference: {fileID: 0}
     - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_SizeDelta.x
       value: 2048
@@ -1918,6 +1931,11 @@ PrefabInstance:
     - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: "Landscape photograph of digital \nCherry Blossoms, as seen in the 2025\nvideo
+        game, Ghost of Y\u014Dtei.\n\nCaptured By Jean-Francois Retief"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2597,6 +2615,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TVscreen (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: gratia mori
+      objectReference: {fileID: 0}
     - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_SizeDelta.x
       value: 2048
@@ -2656,6 +2678,11 @@ PrefabInstance:
     - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: "Landscape photograph of digital \ntrees, as seen in the 2025 video
+        game, \nDeath Stranding 2: On the Beach.\n\nCaptured By Jean-Francois Retief"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3052,6 +3079,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TVscreen (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: View from Kaer Morhen
+      objectReference: {fileID: 0}
     - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_SizeDelta.x
       value: 2048
@@ -3111,6 +3142,11 @@ PrefabInstance:
     - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: "Landscape photograph of a digital \nmountainside, as seen in the 2015\nvideo
+        game, The Witcher 3: Wild Hunt.\n\nCaptured By Jean-Francois Retief"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3554,6 +3590,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TVscreen (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: "Ville dans l'obscurit\xE9"
+      objectReference: {fileID: 0}
     - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_SizeDelta.x
       value: 2048
@@ -3613,6 +3653,11 @@ PrefabInstance:
     - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: "Photograph of a darkend city skyline,\nas seen in the 2023 video game,
+        \nMarvel's Spider-Man 2.\n\nCaptured By Jean-Francois Retief"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3846,6 +3891,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TVscreen
       objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: Purple Palmtree Delight
+      objectReference: {fileID: 0}
     - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_SizeDelta.x
       value: 2048
@@ -3905,6 +3954,11 @@ PrefabInstance:
     - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: "Landscape photograph of digital \nbeach, as seen in the 2022 video
+        game, \nHorizon Forbidden West.\n\nCaptured By Jean-Francois Retief"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6272,6 +6326,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TVscreen
       objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: Spirit of the Rider
+      objectReference: {fileID: 0}
     - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_SizeDelta.x
       value: 2048
@@ -6332,6 +6390,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: "Photograph of a skull, as seen in\nthe 2018 video game, \nMarvel's
+        Spider-Man.\n\nCaptured By Jean-Francois Retief"
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6353,6 +6416,10 @@ PrefabInstance:
     - target: {fileID: 180670836311483310, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_Name
       value: TVscreen (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: "\rM\xE9moire"
       objectReference: {fileID: 0}
     - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -6413,6 +6480,11 @@ PrefabInstance:
     - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: "Landscape photograph of a digital \nforest, as seen in the 2022 video
+        game,\nThe Stanley Parable: Ultra Deluxe.\n\nCaptured By Jean-Francois Retief"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7832,6 +7904,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TVscreen (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: Spirit of the Spider
+      objectReference: {fileID: 0}
     - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_SizeDelta.x
       value: 2048
@@ -7891,6 +7967,11 @@ PrefabInstance:
     - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: "Photograph of a mask, as seen in\nthe 2023 video game, \nMarvel's Spider-Man
+        2.\n\nCaptured By Jean-Francois Retief"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9607,6 +9688,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TVscreen
       objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: Grey Hour over the Apple
+      objectReference: {fileID: 0}
     - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_SizeDelta.x
       value: 2048
@@ -9666,6 +9751,12 @@ PrefabInstance:
     - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: "Landscape photograph of the digital \nManhattan borough, as seen in
+        the 2023\nvideo game, Marvel's Spider-Man 2.\n\nCaptured By Jean-Francois
+        Retief"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10355,6 +10446,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TVscreen (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: Far from the Beach
+      objectReference: {fileID: 0}
     - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_SizeDelta.x
       value: 2048
@@ -10414,6 +10509,11 @@ PrefabInstance:
     - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: "Landscape photograph of digital \nmountains, as seen in the 2025 video
+        game, Death Stranding 2: On the Beach.\n\nCaptured By Jean-Francois Retief"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11195,6 +11295,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TVscreen (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: Navis spatialis in spelunca
+      objectReference: {fileID: 0}
     - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_SizeDelta.x
       value: 2048
@@ -11255,6 +11359,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: "Landscape photograph of a spaceship in a cave, as seen in the 2022
+        video game, \nHorizon Forbidden West.\n\nCaptured By Jean-Francois Retief"
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11276,6 +11385,10 @@ PrefabInstance:
     - target: {fileID: 180670836311483310, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_Name
       value: TVscreen
+      objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: Serene means untroubled
       objectReference: {fileID: 0}
     - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -11336,6 +11449,11 @@ PrefabInstance:
     - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: "Landscape photograph of a digital \nforest, as seen in the 2025\nvideo
+        game, Ghost of Y\u014Dtei.\n\nCaptured By Jean-Francois Retief"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11464,6 +11582,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TVscreen (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: Music of the Moon
+      objectReference: {fileID: 0}
     - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_SizeDelta.x
       value: 2048
@@ -11524,6 +11646,19 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: 'Photograph of a digital character, called
+
+        Lune, playing guitar,
+        as seen in the 2025
+
+        video game, Clair Obscur: Expedition 33.
+
+
+        Captured
+        By Jean-Francois Retief'
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11545,6 +11680,10 @@ PrefabInstance:
     - target: {fileID: 180670836311483310, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_Name
       value: TVscreen
+      objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: Draoidheachd town
       objectReference: {fileID: 0}
     - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -11605,6 +11744,17 @@ PrefabInstance:
     - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: 'Photograph of a digital town, with a ''sketch'' photo filter, as seen
+        in the 2023
+
+        video game, Hogwarts Legacy.
+
+
+        Captured By Jean-Francois
+        Retief'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11848,6 +11998,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TVscreen (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: Meridian Vista Point
+      objectReference: {fileID: 0}
     - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_SizeDelta.x
       value: 2048
@@ -11907,6 +12061,11 @@ PrefabInstance:
     - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: "Landscape photograph of digital \nvista, as seen in the 2017 video
+        game, \nHorizon Zero Dawn.\n\nCaptured By Jean-Francois Retief"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12141,6 +12300,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TVscreen
       objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: The Spread of Darkness
+      objectReference: {fileID: 0}
     - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_SizeDelta.x
       value: 2048
@@ -12200,6 +12363,11 @@ PrefabInstance:
     - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: "Photograph of a special symbiote attack,\nas seen in the 2023 video
+        game, \nMarvel's Spider-Man 2.\n\nCaptured By Jean-Francois Retief"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12328,6 +12496,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TVscreen (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: "Silhouette \xE9veill\xE9e"
+      objectReference: {fileID: 0}
     - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_SizeDelta.x
       value: 2048
@@ -12387,6 +12559,11 @@ PrefabInstance:
     - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: "Photograph of a silhouette in a doorway, as seen in the 2023 video
+        game, \nAlan Wake 2.\n\nCaptured By Jean-Francois Retief"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
