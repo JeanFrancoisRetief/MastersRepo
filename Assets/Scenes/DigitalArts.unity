@@ -2783,6 +2783,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: TVscreen
       objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: ITSY BITSY SPIDER
+      objectReference: {fileID: 0}
+    - target: {fileID: 4451855169411553552, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: 1fc518b8354b79242aeda644eaf5bbe4, type: 3}
     - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06666667
@@ -2830,6 +2838,14 @@ PrefabInstance:
     - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: 'Screenshots of a Games & AI Research Project, developed by Jean-Francois
+        Retief, Malakai Braam, Dylan Cairns, Erin Harper and Mikhail Govind.
+
+        Created
+        By Playing Games Studios'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3924,6 +3940,10 @@ PrefabInstance:
     - target: {fileID: 180670836311483310, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_Name
       value: TVscreen (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 180670836311483310, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
       propertyPath: m_LocalScale.x
