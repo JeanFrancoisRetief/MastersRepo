@@ -4621,6 +4621,7 @@ GameObject:
   m_Component:
   - component: {fileID: 508656324}
   - component: {fileID: 508656325}
+  - component: {fileID: 508656326}
   m_Layer: 0
   m_Name: VideoPlayer
   m_TagString: Untagged
@@ -4669,6 +4670,42 @@ VideoPlayer:
   - {fileID: 0}
   m_DirectAudioVolumes:
   - 0.111
+  m_Url: 
+  m_EnabledAudioTracks: 01
+  m_DirectAudioMutes: 01
+  m_ControlledAudioTrackCount: 1
+  m_PlayOnAwake: 1
+  m_SkipOnDrop: 1
+  m_Looping: 1
+  m_WaitForFirstFrame: 1
+  m_FrameReadyEventEnabled: 0
+  m_VideoShaders: []
+--- !u!328 &508656326
+VideoPlayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 508656323}
+  m_Enabled: 1
+  m_VideoClip: {fileID: 32900000, guid: cce9b6fcf146eff40a27f14aa0e98b58, type: 3}
+  m_TargetCameraAlpha: 1
+  m_TargetCamera3DLayout: 0
+  m_TargetCamera: {fileID: 0}
+  m_TargetTexture: {fileID: 8400000, guid: 542f626a80148e349a71c83cc60bb452, type: 2}
+  m_TimeReference: 0
+  m_TargetMaterialRenderer: {fileID: 0}
+  m_TargetMaterialProperty: <noninit>
+  m_RenderMode: 2
+  m_AspectRatio: 2
+  m_DataSource: 0
+  m_TimeUpdateMode: 2
+  m_PlaybackSpeed: 1
+  m_AudioOutputMode: 2
+  m_TargetAudioSources:
+  - {fileID: 0}
+  m_DirectAudioVolumes:
+  - 1
   m_Url: 
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 01
@@ -7300,6 +7337,100 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1365821026288870022, guid: 551fc32638fa9644db2bd033c25ba87f, type: 3}
   m_PrefabInstance: {fileID: 826080415}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &837687667
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 180670836311483310, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_Name
+      value: TVscreen
+      objectReference: {fileID: 0}
+    - target: {fileID: 1581431489974385049, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: Error 808 Intro Cutscene
+      objectReference: {fileID: 0}
+    - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 256
+      objectReference: {fileID: 0}
+    - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 256
+      objectReference: {fileID: 0}
+    - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 7.5407
+      objectReference: {fileID: 0}
+    - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 7.5407
+      objectReference: {fileID: 0}
+    - target: {fileID: 3146080008079844999, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 7.5407
+      objectReference: {fileID: 0}
+    - target: {fileID: 4451855169411553552, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 8400000, guid: 542f626a80148e349a71c83cc60bb452, type: 2}
+    - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -9.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.55240273
+      objectReference: {fileID: 0}
+    - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.8335774
+      objectReference: {fileID: 0}
+    - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 112.936
+      objectReference: {fileID: 0}
+    - target: {fileID: 5445160805140741509, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7033940178541400055, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
+      propertyPath: m_text
+      value: 'The introductory cutscene that plays when a player selects the "New
+        Game" option. It intoduces the characters, 808 & Kate.
+
+
+        Created
+        By Malakai Braam'
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 097fdafce5be1154ba0ed88ac4fa5d7b, type: 3}
 --- !u!1 &847015833
 GameObject:
   m_ObjectHideFlags: 0
@@ -19362,3 +19493,4 @@ SceneRoots:
   - {fileID: 1657250180}
   - {fileID: 1104231161}
   - {fileID: 1153145226}
+  - {fileID: 837687667}
