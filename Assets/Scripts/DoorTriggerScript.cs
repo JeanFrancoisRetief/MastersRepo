@@ -50,6 +50,10 @@ public class DoorTriggerScript : MonoBehaviour
         {
             SceneManager.LoadScene("PhotoModeGallery");
         }
+        else if (other.tag == "DoorJoke")
+        {
+            SceneManager.LoadScene("Joke");
+        }
 
     }
 }

@@ -13,6 +13,7 @@ TagManager:
   - DoorLifeSciences
   - DoorExit
   - DoorGallery
+  - DoorJoke
   layers:
   - Default
   - TransparentFX
