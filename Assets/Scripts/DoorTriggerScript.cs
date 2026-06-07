@@ -15,43 +15,60 @@ public class DoorTriggerScript : MonoBehaviour
     }
     public void OnTriggerEnter(Collider other)
     {
-        if(LoadingPanel != null)
-            LoadingPanel.SetActive(true);
+        
 
         if(other.tag == "DoorOriginCentre")
         {
+            if (LoadingPanel != null)
+                LoadingPanel.SetActive(true);
             SceneManager.LoadScene("Museum");
         }
         else if (other.tag == "DoorDigitalArts")
         {
+            if (LoadingPanel != null)
+                LoadingPanel.SetActive(true);
             SceneManager.LoadScene("DigitalArts");
         }
         else if (other.tag == "DoorFineArts")
         {
+            if (LoadingPanel != null)
+                LoadingPanel.SetActive(true);
             SceneManager.LoadScene("");
         }
         else if (other.tag == "DoorAnthropology")
         {
+            if (LoadingPanel != null)
+                LoadingPanel.SetActive(true);
             SceneManager.LoadScene("");
         }
         else if (other.tag == "DoorAdler")
         {
+            if (LoadingPanel != null)
+                LoadingPanel.SetActive(true);
             SceneManager.LoadScene("");
         }
         else if (other.tag == "DoorLifeSciences")
         {
+            if (LoadingPanel != null)
+                LoadingPanel.SetActive(true);
             SceneManager.LoadScene("");
         }
         else if (other.tag == "DoorExit")
         {
+            if (LoadingPanel != null)
+                LoadingPanel.SetActive(true);
             SceneManager.LoadScene("MainHall");
         }
         else if (other.tag == "DoorGallery")
         {
+            if (LoadingPanel != null)
+                LoadingPanel.SetActive(true);
             SceneManager.LoadScene("PhotoModeGallery");
         }
         else if (other.tag == "DoorJoke")
         {
+            if (LoadingPanel != null)
+                LoadingPanel.SetActive(true);
             SceneManager.LoadScene("Joke");
         }
 
