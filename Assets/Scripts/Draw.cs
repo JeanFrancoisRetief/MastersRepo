@@ -1,10 +1,15 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Draw : MonoBehaviour
 {
     public Camera cam;//Reference to the camera in the scene
+    public FlexibleColorPicker fcp;
+    public Text brushSizeText;
+    public Slider brushSizeSlider;
 
     //Canvas dimensions
     public int totalXPixels = 1024;
@@ -64,6 +69,11 @@ public class Draw : MonoBehaviour
             CalculatePixel();
         else //Else, we did not draw, so on the next frame we should not apply interpolation
             pressedLastFrame = false;
+
+        brushColor = fcp.color;
+
+        brushSize = (int)brushSizeSlider.value;
+        brushSizeText.text = "Brush Size: " + brushSize.ToString();
     }
 
     void CalculatePixel()//This function checks if the cursor is currently over the canvas and, if it is, it calculates which pixel on the canvas it is on
